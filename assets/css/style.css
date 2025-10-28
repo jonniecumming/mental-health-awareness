@@ -26,3 +26,17 @@
 .hero-text > p {
     font-size: 1.5rem;
 }
+
+.navbar-brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem; /* space between icon and text */
+    padding: 0.25rem 0; /* optional vertical spacing */
+}
+
+.navbar-brand img {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    display: block;
+}
