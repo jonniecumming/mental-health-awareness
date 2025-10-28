@@ -1,5 +1,18 @@
 
+.hero-image {
+    background-color: #37c286; /* Colour for temporary hero 'image' */
+    /* When chosen an image: uncommenting the next line */
+    /* background-image: url('../images/hero.jpg'); */
+    background-size: cover;
+    background-position: center;
+    height: 500px; /* adjust height as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 .hero-text {
+    color: #0b3b36; /* text color that contrasts with the background */
     text-align: center;
+    padding: 0 1rem;
 }
