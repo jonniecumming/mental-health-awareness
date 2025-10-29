@@ -7,7 +7,7 @@
     /* background-image: url('../images/hero.jpg'); */
     background-size: cover;
     background-position: center;
-    height: 500px; /* adjust height as needed */
+    height: 500px;
     display: flex;
     align-items: center;
     justify-content: center;
