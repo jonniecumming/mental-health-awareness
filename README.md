@@ -4,14 +4,21 @@ A small static site offering mental health tips and links to support services.
 
 ## Project Overview 
 
-Help Hub is a simple, responsive static website built with HTML and Bootstrap to provide practical mental health tips and signpost services and support.
+### Purpose
 
-## Features
+Help Hub is a simple, responsive static website built with HTML and Bootstrap to provide practical mental health tips and signpost services and support. The main idea being, it is approachable, whilst also linking the neccessary relevant support.
 
-- Responsive layout using Bootstrap 5
-- Sections for tips, services, and contact
-- Accessible markup with ARIA attributes
-- Simple footer with social links
+### Target Audience
+
+The target audience would be users who feel they may benefit from some sort of mental health support, ranging from positive messages of affirmation, to direct links to professional and urgent support.
+
+## User Stories
+
+### Must Haves:
+
+### Should Haves:
+
+### Could Haves:
 
 ## Wireframes
 
@@ -24,6 +31,14 @@ Mobile and Tablet Wireframes:
 
 Desktop Wireframe:
 ![Balsamiq desktop wireframe.](/assets/images/wireframes/Desktop%20view.png)
+
+## Features
+
+- Responsive layout using Bootstrap 5
+- Sections for tips, services, and contact
+- Accessible markup with ARIA attributes
+- Simple footer with social links
+
 ## Testing
 
 Features Tested section...
@@ -50,7 +65,16 @@ After a few moments, a banner appeared at the top of the Pages section with the 
 
 The live website is available here:
 
+https://jonniecumming.github.io/mental-health-awareness/
 
-## Contact
 
-For questions or help, open an issue in this repository.
+## Reflection
+### Challenges
+I found that changing my mind...
+### What I have learned
+From doing this project, I have learned...
+
+### Future Improvements
+- Further refinement of responsive design
+- Add a contact form for users to contact for guidance
+- More visually interactive/attractive elements
