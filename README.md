@@ -15,11 +15,16 @@ The target audience would be users who feel they may benefit from some sort of m
 ## User Stories
 
 ### Must Haves:
-
+- As a Site User, I want to navigate through the website to find the relevant information quickly and easily on any device.
+- As a user, I need to easily be able to access to the services section, which contains links and further information on mental health services available.
+- As a site visitor, I want to immediately feel at ease and able to find the relevant information on improving my mental health.
+- As a site user, I want to be able to easily find short, positive messages to help me through the day.
 ### Should Haves:
+- As a user, I want to be able enquire into further information about the services offered.
+- As a website visitor, I want to learn about values and background to the site, so that I can feel confident in the content and linked information.
 
 ### Could Haves:
-
+- As a regular site user, I want to be able to subscribe to news, updates and information about relevant mental health topics.
 ## Wireframes
 
 Before starting the project, I created wireframes for different viewports to help visualise how I wanted the site to look on different devices. This helped me with creating a responsive site.
@@ -70,9 +75,9 @@ https://jonniecumming.github.io/mental-health-awareness/
 
 ## Reflection
 ### Challenges
-I found that changing my mind...
+From starting the development of the fundementals layout of the site whilst being uncertain about variuous elements, I created many unneccessary problems for myself. This was especially unhelpful when getting used to using a standardised apporach to building a site as it meant I was often doping things in a sub-optimal way in terms of order, as well as efficieny.
 ### What I have learned
-From doing this project, I have learned...
+From doing this project, I have learned that having a strong idea from the beginning is vital to setting yorself up to develop a site in a clean and clear manner. Having a fully-thought-through use alongside carefully considered user stories helps give the design process clarity, which makes the process much easier, and in turn, saves time and money, potentially. 
 
 ### Future Improvements
 - Further refinement of responsive design
