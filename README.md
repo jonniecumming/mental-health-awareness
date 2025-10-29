@@ -2,18 +2,7 @@
 
 A small static site offering mental health tips and links to support services.
 
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Preview](#preview)
-- [Local Development](#local-development)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## About
+## Project Overview 
 
 Help Hub is a simple, responsive static website built with HTML and Bootstrap to provide practical mental health tips and signpost services and support.
 
@@ -24,37 +13,43 @@ Help Hub is a simple, responsive static website built with HTML and Bootstrap to
 - Accessible markup with ARIA attributes
 - Simple footer with social links
 
-## Preview
+## Wireframes
 
-Open index.html in your browser or serve the folder locally.
+Before starting the project, I created wireframes for different viewports to help visualise how I wanted the site to look on different devices. This helped me with creating a responsive site.
 
-## Local Development
+I used the software _Balsamiq_, to create these diagrams.
 
-Recommended: use Live Server extension in VS Code or run a simple local server.
+Mobile and Tablet Wireframes:
+![Balsamiq mobile and tablet wireframes.](/assets/images/wireframes/Mobile%20and%20Tablet%20view.png)
 
-- Using Python (macOS):
-  ```
-  python3 -m http.server 8000
-  ```
-  Then open http://localhost:8000 in your browser.
+Desktop Wireframe:
+![Balsamiq desktop wireframe.](/assets/images/wireframes/Desktop%20view.png)
+## Testing
 
-- Using VS Code Live Server: Right-click index.html → "Open with Live Server".
+Features Tested section...
 
-## Project Structure
+Lighthouse Testing...
 
-- assets/
-  - css/ — styles (style.css)
-  - images/ — icons and images
-- index.html — main site page
-- README.md — this file
+HTML and CSS Vali8dation...
 
-## Contributing
+Bugs and Issues Found...
+before and after (screenshots)
 
-Small improvements, accessibility fixes, and content suggestions are welcome. Open a PR with a clear description of changes.
+## Development
 
-## License
+This project was deployed using GitHub Pages.
 
-Specify a license (e.g. MIT) or add your own licensing terms here.
+To deploy the site, I followed these steps:
+
+Pushed the final version of the project to the main branch of the GitHub repository.
+Navigated to the repository's Settings tab.
+Scrolled down to the Pages section in the left-hand menu.
+Under Source, selected the main branch and set the root folder (/) as the source.
+GitHub Pages automatically built and deployed the project.
+After a few moments, a banner appeared at the top of the Pages section with the live site link.
+
+The live website is available here:
+
 
 ## Contact
 
