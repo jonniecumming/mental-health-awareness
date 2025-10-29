@@ -4,10 +4,10 @@
 .hero-image {
     background-color: #37c286; /* Colour for temporary hero 'image' */
     /* When chosen an image: uncommenting the next line */
-    /* background-image: url('../images/hero.jpg'); */
+    background-image: url('/assets/images/hero.jpg');
     background-size: cover;
     background-position: center;
-    height: 500px;
+    height: 600px;
     display: flex;
     align-items: center;
     justify-content: center;
