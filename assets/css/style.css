@@ -2,8 +2,7 @@
 /* Hero section */
 
 .hero-image {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4));
-    background: url('../images/hero.jpg');
+    background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url('../images/hero.jpg');
     background-size: cover;
     background-position: center;
     height: 600px;
