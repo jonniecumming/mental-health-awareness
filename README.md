@@ -15,6 +15,17 @@ The target audience would be users who feel they may benefit from some sort of m
 ### SEO
 I added a description and other meta data to the head of index.html to allow fro SEO and better searchability to help potential users find the site.
 
+## Features
+### Navbar and Hero Image
+![Navbar and Hero Image screenshot.](/assets/images/site-screenshots/navbar-and-hero.png)
+### Tips Section
+![Tips section screenshot 1.](/assets/images/site-screenshots/tips-section-1.png)
+![Tips section screenshot 2.](/assets/images/site-screenshots/tips-section-2.png)
+### Affirmations Section
+![Affirmations section screenshot 1.](/assets/images/site-screenshots/affirmations-section.png)
+### Services Section and Footer
+![Services section and footer screenshot.](/assets/images/site-screenshots/services-and-footer.png)
+
 ## User Stories
 
 ### Must Haves:
@@ -54,11 +65,11 @@ To test the deployed site, I intially started with carrying out Lighthouse testi
 ### Lighthouse Testing
 ![Lighthouse Testing.](/assets/images/testing/lighthouse-report.png)
 
- ### HTML and CSS Vali8dation...
-![Lighthouse Testing.](/assets/images/testing/w3c-html-validation.png)
-![Lighthouse Testing.](/assets/images/testing/w3c-css-validation.png)
+ ### HTML and CSS Vali8dation
+![W3c HTML Validation.](/assets/images/testing/w3c-html-validation.png)
+![W3C CSS Validation.](/assets/images/testing/w3c-css-validation.png)
 
-### Bugs and Issues Found
+### Bugs and Issues Found through Testing and Validation
 I Found a small number of trailing slashes left in by Copilot when setting up the basic head content. This was fixed ands then the content was run again.
 
 All three tests passed.
@@ -92,7 +103,7 @@ I found myself not wanting to use AI at this stage of learning, due to not wanti
 From starting the development of the fundementals layout of the site whilst being uncertain about variuous elements, I created many unneccessary problems for myself. This was especially unhelpful when getting used to using a standardised apporach to building a site as it meant I was often doping things in a sub-optimal way in terms of order, as well as efficieny.
 
 ### What I have learned
-From doing this project, I have learned that having a strong idea from the beginning is vital to setting yorself up to develop a site in a clean and clear manner. Having a fully-thought-through use alongside carefully considered user stories helps give the design process clarity, which makes the process much easier, and in turn, saves time and money, potentially. 
+From doing this project, I have learned that having a strong idea from the beginning is vital to setting yorself up to develop a site in a clean and clear manner. Having a fully-thought-through use alongside carefully considered user stories helps give the design process clarity, which makes the process much easier, and in turn, saves time and money, potentially.
 
 ### Future Improvements
 - Further refinement of responsive design
