@@ -27,17 +27,35 @@
     display: block;
 }
 
-/* Mental Health Tips Section */
+/* Tips Section */
 
 .card-title {
     text-align: center;
 }
+
+/* Affirmations Section */
+
+#affirmations {
+
+}
+
+/* Services Section */
+
+#services {
+
+}
+
+    /* Make the max width perameter for the cards */
 
 /* Main */
 
 h2 {
     text-align: center;
     padding-top: 50px;
+}
+
+p {
+    text-align: center;
 }
 
 .urgent-info {

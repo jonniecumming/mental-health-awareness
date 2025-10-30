@@ -74,6 +74,12 @@ https://jonniecumming.github.io/mental-health-awareness/
 
 
 ## Reflection
+
+### Copilot
+During this project, I used AI to help with creating text content to delegate this away and save time. I also used AI a few times to create basic elements quickly, making sure that I always understood what what happening with any implemented code. Finally, my main use was to help problem-solve. This was generally helpful, pointing out errors and usually explaining what the issue was.
+
+I found myself not wanting to use AI at this stage of learning, due to not wanting to miss any developmental aspects of doing this project myself. However, I did find that this became somewhat frustrating when I could quickly solve problems when using it as an aid.
+
 ### Challenges
 From starting the development of the fundementals layout of the site whilst being uncertain about variuous elements, I created many unneccessary problems for myself. This was especially unhelpful when getting used to using a standardised apporach to building a site as it meant I was often doping things in a sub-optimal way in terms of order, as well as efficieny.
 
@@ -82,5 +88,6 @@ From doing this project, I have learned that having a strong idea from the begin
 
 ### Future Improvements
 - Further refinement of responsive design
+- Better implementation of text on images, such as the hero image.
 - Add a contact form for users to contact for guidance
 - More visually interactive/attractive elements
