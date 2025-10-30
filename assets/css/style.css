@@ -39,3 +39,8 @@
 h2 {
     text-align: center;
 }
+
+.urgent-info {
+    text-align: center;
+    font-weight: bold;
+}
