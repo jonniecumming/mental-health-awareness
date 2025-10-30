@@ -27,3 +27,9 @@
     object-fit: cover;
     display: block;
 }
+
+/* Mental Health Tips Section */
+
+.card-title {
+    text-align: center;
+}
