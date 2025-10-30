@@ -6,14 +6,21 @@ A small static site offering mental health tips and links to support services.
 
 ### Purpose
 
-Help Hub is a simple, responsive static website built with HTML and Bootstrap to provide practical mental health tips and signpost services and support. The main idea being, it is approachable, whilst also linking the neccessary relevant support.
+Help Hub is a simple, responsive static website built with HTML and Bootstrap to provide practical mental health tips and signpost services and support. The main idea being, it is approachable, whilst also linking the relevant mental health support.
+
+The site is comprised of four sections. These four sections are all combined on one page with a fixed navbar, to enable easy navigation throughout the site. This is designed in a responsive way so that all device users have a good experience of the content.
+
+- Home: A hero image with an opening description to the site.
+- Tips: A section for tips on common mental health issues.
+- Affirmations: A section of quotes to help inspire positivity.
+- Services: A section with links to verious mental health support services.
 
 ### Target Audience
 
 The target audience would be users who feel they may benefit from some sort of mental health support, ranging from positive messages of affirmation, to direct links to professional and urgent support.
 
 ### SEO
-I added a description and other meta data to the head of index.html to allow fro SEO and better searchability to help potential users find the site.
+I added a site description and other metadata to the head of index.html to allow for SEO and better searchability to help potential users find the site.
 
 ## Features
 ### Navbar and Hero Image
@@ -55,12 +62,14 @@ Desktop Wireframe:
 
 - Responsive layout using Bootstrap 5
 - Sections for tips, Affirmations and Services
-- Accessible markup with ARIA attributes
 - Simple footer with social links
 
 ## Testing
 
-To test the deployed site, I intially started with carrying out Lighthouse testing, HTML and CSS validation through W3C.
+To test the deployed site, I intially started with carrying out manual testing, then Lighthouse testing, HTML and CSS validation through W3C.
+
+### Manual Testing
+I checked that all of the links worked and that the site was respoinsive.
 
 ### Lighthouse Testing
 ![Lighthouse Testing.](/assets/images/testing/lighthouse-report.png)
@@ -103,10 +112,24 @@ I found myself not wanting to use AI at this stage of learning, due to not wanti
 From starting the development of the fundementals layout of the site whilst being uncertain about variuous elements, I created many unneccessary problems for myself. This was especially unhelpful when getting used to using a standardised apporach to building a site as it meant I was often doping things in a sub-optimal way in terms of order, as well as efficieny.
 
 ### What I have learned
-From doing this project, I have learned that having a strong idea from the beginning is vital to setting yorself up to develop a site in a clean and clear manner. Having a fully-thought-through use alongside carefully considered user stories helps give the design process clarity, which makes the process much easier, and in turn, saves time and money, potentially.
+From doing this project, I have learned that having a strong idea from the beginning is vital to setting yorself up to develop a site in a clean and clear manner. Having a fully-thought-through use, alongside carefully considered user stories helps give the design process clarity, which makes the process much easier, and in turn, saves time.
 
 ### Future Improvements
 - Further refinement of responsive design
 - Better implementation of text on images, such as the hero image.
 - Add a contact form for users to contact for guidance
 - More visually interactive/attractive elements
+
+
+## Content Sources:
+
+### Images
+
+- https://unsplash.com - Site Hero Image
+- https://storyset.com - Illustrations for Tips and Common Issues
+
+### Libraries
+
+- Google Fonts (CDN)
+- Font Awesome (CDN)
+- Bootstrap 5 (CDN)
