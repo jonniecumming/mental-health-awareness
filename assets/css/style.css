@@ -2,8 +2,7 @@
 /* Hero section */
 
 .hero-image {
-    /* background-color: #37c286; when no imaage used */
-    background-image: url('/assets/images/hero.jpg');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url('/assets/images/hero.jpg');
     background-size: cover;
     background-position: center;
     height: 600px;
