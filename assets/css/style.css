@@ -1,6 +1,7 @@
 /* import Google Fonts Funnel Sans */
 
 @import url("https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
 /* Hero section */
 
 .hero-image {
@@ -18,8 +19,8 @@
 .navbar-brand {
     display: inline-flex;
     align-items: center;
-    gap: 0.5rem; /* space between icon and text */
-    padding: 0.25rem 0; /* optional vertical spacing */
+    gap: 0.5rem; 
+    padding: 0.25rem 0;
 }
 
 .navbar-brand img {
@@ -35,17 +36,11 @@
     text-align: center;
 }
 
-/* Affirmations Section */
-
-/* Services Section */
-
-/* Make the max width perameter for the cards */
-
 /* Main */
 
 h2 {
     text-align: center;
-    padding-top: 50px;
+    padding-top: 75px;
 }
 
 p {
@@ -69,7 +64,7 @@ p {
     justify-content: center;
     width: 2.5rem;
     height: 2.5rem;
-    font-size: 1.8rem; /* increase icon size */
+    font-size: 2rem;
     line-height: 1;
     transition: transform 150ms ease;
 }
