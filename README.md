@@ -76,6 +76,7 @@ https://jonniecumming.github.io/mental-health-awareness/
 ## Reflection
 ### Challenges
 From starting the development of the fundementals layout of the site whilst being uncertain about variuous elements, I created many unneccessary problems for myself. This was especially unhelpful when getting used to using a standardised apporach to building a site as it meant I was often doping things in a sub-optimal way in terms of order, as well as efficieny.
+
 ### What I have learned
 From doing this project, I have learned that having a strong idea from the beginning is vital to setting yorself up to develop a site in a clean and clear manner. Having a fully-thought-through use alongside carefully considered user stories helps give the design process clarity, which makes the process much easier, and in turn, saves time and money, potentially. 
 

@@ -2,8 +2,7 @@
 /* Hero section */
 
 .hero-image {
-    background-color: #37c286; /* Colour for temporary hero 'image' */
-    /* When chosen an image: uncommenting the next line */
+    /* background-color: #37c286; when no imaage used */
     background-image: url('/assets/images/hero.jpg');
     background-size: cover;
     background-position: center;
@@ -12,20 +11,7 @@
     align-items: center;
     justify-content: center;
     padding-top: 56px;
-}
-
-.hero-text {
-    color: #0b3b36; /* text color that contrasts with the background */
     text-align: center;
-    padding: 0 1rem;
-}
-
-.hero-text > h1 {
-    font-size: 5rem;
-}
-
-.hero-text > p {
-    font-size: 1.5rem;
 }
 
 .navbar-brand {
