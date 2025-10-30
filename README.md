@@ -12,6 +12,9 @@ Help Hub is a simple, responsive static website built with HTML and Bootstrap to
 
 The target audience would be users who feel they may benefit from some sort of mental health support, ranging from positive messages of affirmation, to direct links to professional and urgent support.
 
+### SEO
+I added a description and other meta data to the head of index.html to allow fro SEO and better searchability to help potential users find the site.
+
 ## User Stories
 
 ### Must Haves:
@@ -40,22 +43,27 @@ Desktop Wireframe:
 ## Features
 
 - Responsive layout using Bootstrap 5
-- Sections for tips, services, and contact
+- Sections for tips, Affirmations and Services
 - Accessible markup with ARIA attributes
 - Simple footer with social links
 
 ## Testing
 
-Features Tested section...
+To test the deployed site, I intially started with carrying out Lighthouse testing, HTML and CSS validation through W3C.
 
-Lighthouse Testing...
+### Lighthouse Testing
+![Lighthouse Testing.](/assets/images/testing/lighthouse-report.png)
 
-HTML and CSS Vali8dation...
+ ### HTML and CSS Vali8dation...
+![Lighthouse Testing.](/assets/images/testing/w3c-html-validation.png)
+![Lighthouse Testing.](/assets/images/testing/w3c-css-validation.png)
 
-Bugs and Issues Found...
-before and after (screenshots)
+### Bugs and Issues Found
+I Found a small number of trailing slashes left in by Copilot when setting up the basic head content. This was fixed ands then the content was run again.
 
-## Development
+All three tests passed.
+
+## Deployment
 
 This project was deployed using GitHub Pages.
 
